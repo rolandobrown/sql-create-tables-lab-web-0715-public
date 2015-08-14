@@ -1,9 +1,9 @@
-CREATE TABLE cats(
+CREATE TABLE cats (
   id INTEGER PRIMARY KEY,
   name TEXT,
   age INTEGER,
-  gender TEXT,
+  gender CHAR(1),
   breed TEXT,
   temperment TEXT,
-  declawed TEXT
+  declawed BOOLEAN
 );
