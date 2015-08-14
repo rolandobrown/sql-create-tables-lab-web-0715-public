@@ -2,7 +2,7 @@
 
 # Sql Create Tables Lab
 
-Building off of what we've learned about creating tables and column types in the SQL Book, let's play around with writing SQL CREATE statements.
+Building off of what we've learned about creating tables and column types, let's play around with writing SQL CREATE statements.
 
 ## Learning Objectives
 
